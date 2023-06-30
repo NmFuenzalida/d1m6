@@ -1,25 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# peliculas
+*Traté de arreglar el problema de las relaciones, pero creo saber porfín donde atacar el problema en las migraciones, he estado horas intentandolo, si lo logro subiré un commit nuevo.
